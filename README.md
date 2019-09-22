@@ -1,5 +1,7 @@
 # Probe Screen V2 for LinuxCNC
 
+This version contains minor changes to make probe screen work in 2.8 (axis/joint topic)
+
  Install.
 -----------------------------------------------------------------------------
 1. Delete (or comment out) from all .hal files lines of the form:
