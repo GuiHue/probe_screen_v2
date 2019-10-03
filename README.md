@@ -1,6 +1,7 @@
 # Probe Screen V2 for LinuxCNC
 
-This version contains minor changes to make probe screen work in 2.8 (axis/joint topic)
+This version contains minor changes to make probe_screen_v2 work in 2.8 (axis/joint topic)
+Changes affect macros and probe_screen.py.
 
  Install.
 -----------------------------------------------------------------------------
